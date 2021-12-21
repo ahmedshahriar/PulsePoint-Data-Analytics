@@ -41,7 +41,13 @@ Analysis:
 #### Also, you can view this notebook on kaggle - 
 - [ahmedshahriarsakib/pulsepoint-emergency-analytics](https://www.kaggle.com/ahmedshahriarsakib/pulsepoint-emergency-analytics)
  
+#### Preview -
 
+![](https://github.com/ahmedshahriar/PulsePoint-Data-Analytics/blob/main/files/pulsepoint_incidents_by_states_800px.gif)
+<br/><br/>
+![](https://github.com/ahmedshahriar/PulsePoint-Data-Analytics/blob/main/files/pulse_point_us_states.png)
+![](https://github.com/ahmedshahriar/PulsePoint-Data-Analytics/blob/main/files/pulse_point_ca.png)
+![](https://github.com/ahmedshahriar/PulsePoint-Data-Analytics/blob/main/files/pulse_point_us_states_heatmap.png)
 
 <br>
 
