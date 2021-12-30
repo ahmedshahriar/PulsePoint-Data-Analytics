@@ -15,8 +15,6 @@ PulsePoint offers a web client at [web.pulsepoint.org](https://web.pulsepoint.or
 
 The dataset was collected via web scraping using python libraries. The logs were collected from **2021-05-02** to the Present.
 
-### Source
-- [PulsePoint Respond Local Threats And Emergencies on Kaggle](https://www.kaggle.com/ahmedshahriarsakib/pulsepoint-respond-local-threats-and-emergency)
 
 With this data, it is possible to assess the impact of local emergencies over the period as well as the regions where they were concentrated.
 
@@ -39,6 +37,7 @@ Analysis:
 
 #### This project also serves as my assignment for the course -
 - [IBM Unsupervised Machine Learning](https://www.coursera.org/learn/ibm-unsupervised-machine-learning?specialization=ibm-machine-learning)
+
 #### Also, you can view this notebook on kaggle - 
 - [ahmedshahriarsakib/pulsepoint-emergency-analytics](https://www.kaggle.com/ahmedshahriarsakib/pulsepoint-emergency-analytics)
  
