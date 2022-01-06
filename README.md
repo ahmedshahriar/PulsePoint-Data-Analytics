@@ -13,7 +13,7 @@ In this project I performed data cleaning & preprocessing, feature extraction, e
  
 PulsePoint offers a web client at [web.pulsepoint.org](https://web.pulsepoint.org) that allows users to view the same data that appears in PulsePoint Respond with a browser.
 
-The dataset was collected via web scraping using python libraries. The logs were collected from **2021-05-02** to the Present.
+The dataset was collected via web scraping using python libraries. The logs were collected from **2021-05-02** to **2021-12-31**.
 
 
 With this data, it is possible to assess the impact of local emergencies over the period as well as the regions where they were concentrated.
