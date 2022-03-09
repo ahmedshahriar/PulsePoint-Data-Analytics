@@ -13,8 +13,9 @@ In this project I performed data cleaning & preprocessing, feature extraction, e
  
 PulsePoint offers a web client at [web.pulsepoint.org](https://web.pulsepoint.org) that allows users to view the same data that appears in PulsePoint Respond with a browser.
 
-The dataset was collected via web scraping using python libraries. The logs were collected from **2021-05-02** to **2021-12-31**.
+The dataset was collected via web scraping using python libraries (selenium, postgreSQL). The logs were collected from **2021-05-02** to **2021-12-31**.
 
+### NB: As per the copyright policy held by [https://web.pulsepoint.org](https://web.pulsepoint.org) see more - [https://www.pulsepoint.org/eula](https://www.pulsepoint.org/eula) "The PulsePoint app and its data are available to users for their own personal use and cannot be redistributed", Hence I am not intending to publish the dataset
 
 With this data, it is possible to assess the impact of local emergencies over the period as well as the regions where they were concentrated.
 
